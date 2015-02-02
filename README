@@ -1,3 +1,17 @@
+NOTE:
+
+This is my fork of cl-vectors that includes some optimizations, that,
+when combined with my fork of vecto gives and approximate 8-10x
+speedup on rendering.
+
+Burton Samograd
+burton.samograd@gmail.com
+2015
+
+--------------------------------------------------------------------------------
+
+Original README:
+
 cl-vectors
 ==========
 
